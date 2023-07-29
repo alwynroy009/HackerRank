@@ -1,3 +1,9 @@
+# Problem Statement
+# https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem
+
+# Explanation
+# https://youtu.be/W9waywE2tfQ
+
 def sum_of_N_numbers(N):
     return N*(N+1)//2
 
